@@ -1,0 +1,251 @@
+ID_Kamar,Harga,Luas_m2,Fasilitas,Lokasi,Status
+KOS001,621958.0,,Kipas Angin,Pinggir Kota,
+KOS002,1171155.0,11.0,Kipas Angin,Dekat Kampus,Kosong
+KOS003,631932.0,18.0,AC,Pusat Kota,Terisi
+KOS004,1914414.0,20.0,AC,Pusat Kota,Terisi
+KOS005,759178.0,16.0,Non-AC,Pinggir Kota,Terisi
+KOS006,,23.0,,Dekat Kampus,Terisi
+KOS007,610268.0,,AC,Pinggir Kota,Terisi
+KOS008,1232180.0,14.0,AC,Dekat Kampus,Terisi
+KOS009,1603462.0,24.0,AC,,
+KOS010,637337.0,24.0,Kipas Angin,Pusat Kota,Terisi
+KOS011,1499890.0,16.0,AC,Pusat Kota,Terisi
+KOS012,2070006.0,17.0,Non-AC,Pusat Kota,
+KOS013,,12.0,Non-AC,Pinggir Kota,Terisi
+KOS014,2447735.0,,AC,Dekat Kampus,Terisi
+KOS015,1412756.0,22.0,,,
+KOS016,675203.0,9.0,AC,Pinggir Kota,Kosong
+KOS017,1739911.0,18.0,Non-AC,Dekat Kampus,
+KOS018,778167.0,12.0,AC,Pusat Kota,Terisi
+KOS019,541090.0,20.0,AC,Dekat Kampus,
+KOS020,829365.0,,Non-AC,,Kosong
+KOS021,,15.0,AC,,Kosong
+KOS022,1287201.0,10.0,AC,Dekat Kampus,Terisi
+KOS023,1870455.0,11.0,,Pinggir Kota,
+KOS024,2266891.0,9.0,AC,Dekat Kampus,Terisi
+KOS025,827069.0,,Kipas Angin,Pusat Kota,Kosong
+KOS026,2325573.0,9.0,AC,Pinggir Kota,Terisi
+KOS027,1747617.0,16.0,Non-AC,Dekat Kampus,Terisi
+KOS028,1291743.0,9.0,,Pusat Kota,
+KOS029,603355.0,19.0,Non-AC,Pinggir Kota,Kosong
+KOS030,1784372.0,9.0,AC,Pinggir Kota,Terisi
+KOS031,1762752.0,10.0,AC,Dekat Kampus,Terisi
+KOS032,684779.0,10.0,,,Terisi
+KOS033,1896025.0,,Kipas Angin,Dekat Kampus,Terisi
+KOS034,1970485.0,14.0,Kipas Angin,Pusat Kota,Terisi
+KOS035,,15.0,AC,Dekat Kampus,Terisi
+KOS036,,13.0,AC,Pinggir Kota,Terisi
+KOS037,986232.0,24.0,,Pinggir Kota,Terisi
+KOS038,1417040.0,9.0,Non-AC,Dekat Kampus,Terisi
+KOS039,2048762.0,,AC,Dekat Kampus,Terisi
+KOS040,656730.0,11.0,Kipas Angin,Pinggir Kota,Terisi
+KOS041,2419486.0,22.0,,Pusat Kota,Terisi
+KOS042,1933257.0,10.0,Kipas Angin,,Terisi
+KOS043,1698079.0,13.0,Non-AC,Dekat Kampus,Terisi
+KOS044,1154811.0,20.0,Kipas Angin,Pinggir Kota,Terisi
+KOS045,1027035.0,18.0,,Dekat Kampus,Terisi
+KOS046,1148143.0,24.0,,Pusat Kota,Kosong
+KOS047,2000942.0,14.0,Non-AC,Pinggir Kota,
+KOS048,565725.0,24.0,AC,Dekat Kampus,Kosong
+KOS049,1678557.0,,AC,Pinggir Kota,Terisi
+KOS050,584654.0,12.0,Kipas Angin,Dekat Kampus,Terisi
+KOS051,1453277.0,,Non-AC,Dekat Kampus,Kosong
+KOS052,2454354.0,19.0,AC,Dekat Kampus,Terisi
+KOS053,1091723.0,16.0,AC,Pusat Kota,Terisi
+KOS054,819030.0,19.0,Non-AC,,Terisi
+KOS055,1877523.0,9.0,Non-AC,Pinggir Kota,
+KOS056,1055839.0,23.0,AC,Dekat Kampus,Kosong
+KOS057,,14.0,AC,Dekat Kampus,Kosong
+KOS058,773538.0,16.0,AC,,Kosong
+KOS059,831236.0,13.0,Non-AC,Dekat Kampus,Terisi
+KOS060,1028178.0,12.0,Non-AC,Pusat Kota,Kosong
+KOS061,,10.0,AC,Dekat Kampus,
+KOS062,,14.0,Kipas Angin,Pinggir Kota,Terisi
+KOS063,1805416.0,14.0,Non-AC,Dekat Kampus,Terisi
+KOS064,,19.0,AC,Dekat Kampus,Kosong
+KOS065,849457.0,23.0,AC,Pusat Kota,Terisi
+KOS066,1165987.0,24.0,AC,Dekat Kampus,Kosong
+KOS067,1819512.0,24.0,Kipas Angin,,Terisi
+KOS068,1788507.0,9.0,Non-AC,Pusat Kota,Kosong
+KOS069,1788205.0,17.0,Non-AC,Pinggir Kota,
+KOS070,1753617.0,20.0,Non-AC,,Terisi
+KOS071,1198361.0,19.0,Non-AC,Pusat Kota,Terisi
+KOS072,2280488.0,14.0,Non-AC,Pusat Kota,Kosong
+KOS073,1965689.0,24.0,AC,Pusat Kota,Terisi
+KOS074,568148.0,21.0,Non-AC,Pusat Kota,Terisi
+KOS075,2325665.0,11.0,AC,Pusat Kota,Terisi
+KOS076,1148531.0,,AC,Pinggir Kota,Kosong
+KOS077,1800571.0,20.0,AC,Pinggir Kota,Terisi
+KOS078,1406606.0,19.0,AC,Pusat Kota,Kosong
+KOS079,1178843.0,12.0,AC,Dekat Kampus,Terisi
+KOS080,,11.0,AC,Pusat Kota,Terisi
+KOS081,1072843.0,18.0,Kipas Angin,Dekat Kampus,Terisi
+KOS082,756508.0,11.0,AC,Pusat Kota,Terisi
+KOS083,,23.0,AC,Pusat Kota,Kosong
+KOS084,1396942.0,11.0,Non-AC,Pinggir Kota,Terisi
+KOS085,606530.0,12.0,Kipas Angin,Dekat Kampus,Terisi
+KOS086,1104365.0,24.0,AC,Dekat Kampus,Kosong
+KOS087,,15.0,Non-AC,Pinggir Kota,Terisi
+KOS088,960337.0,12.0,Non-AC,,Terisi
+KOS089,2273415.0,17.0,,Pinggir Kota,Kosong
+KOS090,1305889.0,9.0,Kipas Angin,Pinggir Kota,Terisi
+KOS091,2008349.0,16.0,Kipas Angin,Dekat Kampus,Terisi
+KOS092,,24.0,AC,Dekat Kampus,Kosong
+KOS093,2313045.0,15.0,AC,Pusat Kota,Terisi
+KOS094,1889673.0,10.0,,Pusat Kota,Terisi
+KOS095,1863715.0,16.0,Non-AC,,Terisi
+KOS096,1720405.0,9.0,Non-AC,Pinggir Kota,Kosong
+KOS097,771836.0,19.0,Non-AC,Pinggir Kota,Terisi
+KOS098,1987550.0,20.0,Non-AC,Pusat Kota,Terisi
+KOS099,1489913.0,17.0,Kipas Angin,,
+KOS100,702283.0,17.0,Kipas Angin,Pusat Kota,Kosong
+KOS101,696769.0,10.0,Kipas Angin,Pusat Kota,Terisi
+KOS102,1061353.0,15.0,,Pusat Kota,Terisi
+KOS103,1771741.0,23.0,Kipas Angin,Pusat Kota,Terisi
+KOS104,2172163.0,22.0,Non-AC,Pusat Kota,Kosong
+KOS105,1546797.0,18.0,Non-AC,Pinggir Kota,Terisi
+KOS106,1450110.0,11.0,AC,,Terisi
+KOS107,2084398.0,15.0,Kipas Angin,Pinggir Kota,Kosong
+KOS108,987879.0,20.0,Kipas Angin,Pinggir Kota,Kosong
+KOS109,1064685.0,24.0,Non-AC,Pusat Kota,Terisi
+KOS110,1282038.0,18.0,Kipas Angin,,Kosong
+KOS111,1902107.0,24.0,Non-AC,Pusat Kota,Terisi
+KOS112,1811736.0,17.0,AC,Dekat Kampus,Kosong
+KOS113,,12.0,AC,Pinggir Kota,Terisi
+KOS114,1079879.0,20.0,AC,Pusat Kota,Terisi
+KOS115,1769460.0,9.0,AC,Pinggir Kota,Kosong
+KOS116,523247.0,10.0,AC,Pusat Kota,Terisi
+KOS117,1572876.0,9.0,Non-AC,Pinggir Kota,Terisi
+KOS118,2015857.0,24.0,AC,,Kosong
+KOS119,1107086.0,22.0,Non-AC,Dekat Kampus,Kosong
+KOS120,,20.0,AC,Dekat Kampus,Terisi
+KOS121,1897527.0,13.0,Non-AC,Pusat Kota,Terisi
+KOS122,1822905.0,13.0,AC,Dekat Kampus,Terisi
+KOS123,,24.0,AC,Pusat Kota,Terisi
+KOS124,1242139.0,19.0,Non-AC,Dekat Kampus,Terisi
+KOS125,932315.0,15.0,Non-AC,Dekat Kampus,Terisi
+KOS126,1426075.0,17.0,AC,Pusat Kota,Kosong
+KOS127,1016588.0,17.0,Kipas Angin,Pusat Kota,Terisi
+KOS128,1785160.0,11.0,AC,Dekat Kampus,Terisi
+KOS129,,11.0,Non-AC,Pusat Kota,
+KOS130,2386222.0,24.0,Kipas Angin,Dekat Kampus,Kosong
+KOS131,1478732.0,24.0,Non-AC,Pusat Kota,Terisi
+KOS132,1925472.0,11.0,Non-AC,Pinggir Kota,
+KOS133,548984.0,,,,Terisi
+KOS134,802918.0,16.0,Non-AC,Pinggir Kota,Terisi
+KOS135,764712.0,14.0,Non-AC,Pinggir Kota,Terisi
+KOS136,1668727.0,,AC,Pinggir Kota,Kosong
+KOS137,2004384.0,9.0,AC,Dekat Kampus,Kosong
+KOS138,633767.0,16.0,Non-AC,Pinggir Kota,Terisi
+KOS139,1148663.0,12.0,,Pinggir Kota,
+KOS140,2252126.0,19.0,Non-AC,Pinggir Kota,Kosong
+KOS141,636330.0,9.0,AC,Pinggir Kota,Kosong
+KOS142,980754.0,16.0,Non-AC,,Terisi
+KOS143,1850224.0,12.0,Non-AC,Dekat Kampus,Terisi
+KOS144,2237095.0,14.0,,Pinggir Kota,Terisi
+KOS145,513986.0,16.0,AC,Pinggir Kota,Terisi
+KOS146,1086146.0,12.0,Non-AC,,Kosong
+KOS147,,22.0,Non-AC,Dekat Kampus,Kosong
+KOS148,512666.0,11.0,,Pusat Kota,
+KOS149,1849380.0,24.0,,Dekat Kampus,Terisi
+KOS150,634633.0,22.0,AC,Pusat Kota,Terisi
+KOS151,788998.0,17.0,AC,Pinggir Kota,Kosong
+KOS152,1350937.0,11.0,Kipas Angin,Pinggir Kota,Kosong
+KOS153,1128776.0,,Kipas Angin,Dekat Kampus,Terisi
+KOS154,2256187.0,21.0,AC,,Kosong
+KOS155,1833382.0,10.0,Kipas Angin,Pusat Kota,Kosong
+KOS156,2343400.0,24.0,,Pusat Kota,Terisi
+KOS157,1579111.0,22.0,Non-AC,Dekat Kampus,
+KOS158,1496107.0,10.0,Non-AC,Pusat Kota,Terisi
+KOS159,1924289.0,10.0,AC,Dekat Kampus,
+KOS160,1338688.0,,AC,Pusat Kota,Terisi
+KOS161,851279.0,11.0,Non-AC,,Kosong
+KOS162,1413910.0,24.0,Non-AC,Dekat Kampus,
+KOS163,2370230.0,21.0,AC,Dekat Kampus,Terisi
+KOS164,2150237.0,17.0,Kipas Angin,Pusat Kota,Terisi
+KOS165,2196548.0,12.0,Non-AC,Pusat Kota,
+KOS166,989570.0,,AC,Pusat Kota,Kosong
+KOS167,,12.0,Kipas Angin,Dekat Kampus,Terisi
+KOS168,,,Kipas Angin,Pusat Kota,Terisi
+KOS169,524538.0,22.0,Kipas Angin,Pusat Kota,Kosong
+KOS170,1394498.0,13.0,AC,Dekat Kampus,Terisi
+KOS171,701664.0,24.0,Non-AC,Pinggir Kota,Terisi
+KOS172,991234.0,,Non-AC,,Terisi
+KOS173,2448260.0,16.0,Non-AC,Pusat Kota,Terisi
+KOS174,639182.0,24.0,Kipas Angin,Dekat Kampus,
+KOS175,2021101.0,16.0,Non-AC,Pinggir Kota,Terisi
+KOS176,,15.0,Kipas Angin,Dekat Kampus,
+KOS177,684064.0,11.0,,Pusat Kota,Kosong
+KOS178,714020.0,9.0,Kipas Angin,Pinggir Kota,Terisi
+KOS179,1539577.0,24.0,Non-AC,,Terisi
+KOS180,1123094.0,9.0,AC,Pinggir Kota,Terisi
+KOS181,2472990.0,,AC,Pinggir Kota,Terisi
+KOS182,1397421.0,20.0,Kipas Angin,Dekat Kampus,Terisi
+KOS183,1115270.0,19.0,AC,Dekat Kampus,Terisi
+KOS184,2194490.0,11.0,Non-AC,Pusat Kota,Kosong
+KOS185,1667752.0,14.0,AC,Dekat Kampus,Terisi
+KOS186,1417710.0,15.0,Non-AC,Dekat Kampus,Terisi
+KOS187,1766702.0,14.0,Kipas Angin,Pinggir Kota,Terisi
+KOS188,718969.0,22.0,Kipas Angin,Dekat Kampus,Kosong
+KOS189,622409.0,,AC,Pinggir Kota,Terisi
+KOS190,,14.0,Kipas Angin,Pinggir Kota,Terisi
+KOS191,753618.0,,Non-AC,Pinggir Kota,Terisi
+KOS192,1269598.0,21.0,AC,Pusat Kota,Kosong
+KOS193,1598591.0,11.0,Non-AC,Pusat Kota,Terisi
+KOS194,1272838.0,14.0,Non-AC,Pusat Kota,Kosong
+KOS195,1670672.0,16.0,AC,Pinggir Kota,Terisi
+KOS196,2179923.0,19.0,Non-AC,Pusat Kota,Terisi
+KOS197,1733916.0,,AC,Pusat Kota,Terisi
+KOS198,,10.0,AC,Dekat Kampus,Terisi
+KOS199,1374371.0,13.0,Non-AC,Pusat Kota,Terisi
+KOS200,1959933.0,22.0,AC,Pusat Kota,Terisi
+KOS201,1235716.0,9.0,Non-AC,Pinggir Kota,Kosong
+KOS202,,20.0,Non-AC,Pinggir Kota,Terisi
+KOS203,2275846.0,23.0,Non-AC,Pinggir Kota,
+KOS204,1473548.0,24.0,Non-AC,Pinggir Kota,Terisi
+KOS205,1746862.0,9.0,Kipas Angin,Pinggir Kota,Terisi
+KOS206,1273290.0,13.0,Non-AC,Pinggir Kota,Terisi
+KOS207,2323260.0,20.0,Non-AC,Pusat Kota,Terisi
+KOS208,1713475.0,21.0,AC,Pinggir Kota,Terisi
+KOS209,1873343.0,,Non-AC,Pinggir Kota,Kosong
+KOS210,1499238.0,11.0,Non-AC,Dekat Kampus,Kosong
+KOS211,1361882.0,12.0,AC,Pusat Kota,Terisi
+KOS212,2428434.0,11.0,Non-AC,,Terisi
+KOS213,879989.0,24.0,Non-AC,Pusat Kota,Terisi
+KOS214,915515.0,9.0,Kipas Angin,Pinggir Kota,Terisi
+KOS215,543585.0,24.0,Kipas Angin,Pinggir Kota,Terisi
+KOS216,1919945.0,9.0,Non-AC,Pinggir Kota,Terisi
+KOS217,564044.0,,AC,Dekat Kampus,Kosong
+KOS218,1460061.0,20.0,AC,Pinggir Kota,Terisi
+KOS219,942296.0,22.0,,Dekat Kampus,Terisi
+KOS220,609556.0,21.0,Kipas Angin,Pusat Kota,Terisi
+KOS221,2075557.0,22.0,AC,Pinggir Kota,Terisi
+KOS222,2430267.0,13.0,Non-AC,Dekat Kampus,Terisi
+KOS223,1267595.0,14.0,AC,Dekat Kampus,Terisi
+KOS224,700235.0,11.0,AC,Pinggir Kota,Terisi
+KOS225,525939.0,20.0,AC,Pusat Kota,Kosong
+KOS226,1701482.0,17.0,AC,Pusat Kota,Terisi
+KOS227,1042335.0,13.0,Kipas Angin,Pusat Kota,Terisi
+KOS228,1836825.0,16.0,Non-AC,Dekat Kampus,Terisi
+KOS229,575766.0,21.0,AC,Dekat Kampus,Terisi
+KOS230,908923.0,9.0,Non-AC,Dekat Kampus,Terisi
+KOS231,1963768.0,22.0,,Dekat Kampus,Kosong
+KOS232,1068550.0,13.0,Kipas Angin,Pusat Kota,Kosong
+KOS233,887261.0,23.0,AC,Pinggir Kota,Kosong
+KOS234,1310208.0,,AC,,Terisi
+KOS235,1185440.0,20.0,AC,Dekat Kampus,Terisi
+KOS236,2201240.0,9.0,AC,Pusat Kota,Terisi
+KOS237,1484346.0,12.0,AC,Pinggir Kota,
+KOS238,2003165.0,23.0,Non-AC,Pinggir Kota,Kosong
+KOS239,637848.0,21.0,AC,Pusat Kota,Terisi
+KOS240,,13.0,AC,Pusat Kota,Terisi
+KOS241,627948.0,24.0,,Pinggir Kota,Terisi
+KOS242,2127880.0,15.0,,Dekat Kampus,Terisi
+KOS243,902690.0,,,Pinggir Kota,Terisi
+KOS244,999046.0,24.0,Non-AC,Pusat Kota,Terisi
+KOS245,951269.0,11.0,AC,Dekat Kampus,Terisi
+KOS246,521959.0,24.0,AC,Dekat Kampus,Kosong
+KOS247,2209466.0,10.0,,Pusat Kota,Kosong
+KOS248,2298792.0,17.0,Non-AC,Pusat Kota,Terisi
+KOS249,2454109.0,18.0,AC,Pusat Kota,Terisi
+KOS250,2338756.0,23.0,AC,Pinggir Kota,Terisi
